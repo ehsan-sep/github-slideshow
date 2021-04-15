@@ -1,6 +1,6 @@
 <script>
   fucntion d(){
-   funck github 
+   funck github this is my chnage
   }
   
   </script>
